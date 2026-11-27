@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="62" viewBox="0 0 280 62" role="img" aria-label="Jidi Bio — Jidi Peptides">
+  <g transform="translate(2,4)">
+    <path d="M26 1.5 48.5 14.5v26L26 53.5 3.5 40.5v-26Z" fill="#0c3d5c" stroke="#77c8cf" stroke-width="1.4"/>
+    <g fill="none" stroke="#77c8cf" stroke-width="1.1" opacity=".9">
+      <path d="M26 12v11.5M26 23.5 16 29.5M26 23.5l10 6"/>
+      <circle cx="26" cy="23.5" r="2.4" fill="#77c8cf" stroke="none"/>
+      <circle cx="16" cy="29.5" r="2" fill="#77c8cf" stroke="none"/>
+      <circle cx="36" cy="29.5" r="2" fill="#77c8cf" stroke="none"/>
+    </g>
+    <path d="M26 31.5v9.5c0 3.2-2.4 5.2-5.7 5.2-2.8 0-4.7-1.5-5.5-3.8" fill="none" stroke="#f2f9fb" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+  <text x="65" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="-1.2" fill="#f2f9fb">JIDI <tspan fill="#7fd4d4">BIO</tspan></text>
+  <text x="66" y="47" font-family="Consolas, monospace" font-size="6.6" letter-spacing="1.85" fill="#9fb9c8">PEPTIDES · RESEARCH REAGENTS</text>
+</svg>
