@@ -14,7 +14,7 @@ Static research peptide catalog for **Shandong Jidi Biotechnology Co., Ltd.**
 1. Cloudflare Dashboard → Workers & Pages → Create → Pages → Connect to Git.
 2. Select `PolymerGroup/jidi`.
 3. Framework preset: **None**.
-4. Build command: leave empty.
+4. Build command: **`exit 0`**.
 5. Build output directory: **`/`**.
 6. Deploy, then add the custom domain `jidi.com` and redirect `www.jidi.com` to `jidi.com`.
 7. Use SSL/TLS **Full (strict)** and enable **Always Use HTTPS**.
